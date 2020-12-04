@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="2020.12.01_BD_LR_2.4,2020.12.01_bd_lr_2.4" />
+  </component>
+</project>
